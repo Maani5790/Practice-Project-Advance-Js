@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 100vh;
+}
+
+.header {
+    background-color: black;
+    color: white;
+}
+
+.hi {
+    text-align: center;
+    box-shadow: 2px 2px solid black;
+}
+
+.u-items li {
+    display: flex;
+}
+
+.nav {
+    display: inline-block;
+}
+
+#box1 {
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: blue;
+    margin: 10px;
+    /* display: flex; */
+}
+
+#box2 {
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: yellow;
+    margin: 10px;
+    text-align: center;
+   
+    
+}
+
+#box3 {
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: red;
+    margin: 10px;
+}
+
+#box4 {
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: darkorange;
+    margin: 10px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+}
+
+#box11 {
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: palevioletred;
+    margin: 10px;
+}
+
+#box22 {
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: darkgreen;
+    margin: 10px;
+}
+
+#box33 {
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: darkred;
+    margin: 10px;
+}
+
+#box44 {
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: darkcyan;
+    margin: 10px;
+}
+
+#box111 {
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color:tomato;
+    margin: 10px;
+}
+
+#box222 {
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: purple;
+    margin: 10px;
+}
+
+#box333 {
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: darkmagenta;
+    margin: 10px;
+}
+#box444 {
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: hotpink;
+    margin: 10px;
+}
+
+.content1{
+    display: flex;
+    justify-content: center;
+}
+.content2{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    padding: 10px;
+    color: black;
+    background-color: white;
+    font-size: 15px;
+    
+}
